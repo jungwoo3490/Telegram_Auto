@@ -5,8 +5,7 @@ import time
 from datetime import datetime
 import pytz
 
-# 토큰 주석 처리
-# token = "6722824989:AAFcr_3QSlHeaRG3EHSl_WFZhYpU0CRWSw0"
+token = "6722824989:AAFcr_3QSlHeaRG3EHSl_WFZhYpU0CRWSw0"
 bot = telegram.Bot(token=token)
 chat_id = "-1002143232599"
 
